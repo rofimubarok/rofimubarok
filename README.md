@@ -1,7 +1,8 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:49108B,20:F3F8FF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:FBF3C1,20:FFFBDE&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
-  ![Raiden Ei](https://github.com/user-attachments/assets/f82d82ca-7176-4771-b6ea-11830cf463b8)
+ ![download](https://github.com/user-attachments/assets/88b49f23-79e8-4eb1-9423-485e2679ec1b)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:49108B,100:F3F8FF&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 # Rofi_Mubarok
